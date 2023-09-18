@@ -2,7 +2,8 @@
 
  This project is a simple singleplayer poker with complete game mechanics and opponent ai.
 
-![SimplePokerGif](https://github.com/HamzaMunir/Simple-Poker/assets/15054127/30bd4753-06e8-4df7-aea1-f73077f472b6)
+![SimplePokerGifResized](https://github.com/HamzaMunir/Simple-Poker/assets/15054127/a685e607-eab8-4ded-9781-59083e403ff9)
+
 
 ## Unity Version: 
 
